@@ -8,7 +8,6 @@
 </head>
 <body>
 <h1>Chi tiết sản phẩm</h1>
-
 <p>Tên: ${product.name}</p>
 <p>Số lượng: ${product.quantity}</p>
 <p>Đơn giá: ${product.price}</p>
